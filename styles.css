@@ -1,0 +1,38 @@
+    body 
+    {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color:rgb(43, 43, 43);
+    }
+
+    #main-body
+    {
+      margin:30px 100px 30px 100px;
+      height:550px;
+      border-radius:15px;
+      background-color:rgb(158, 252, 220);
+    }
+
+    #main-text
+    {
+      margin-left:100px;
+    }
+
+    #shape-body
+    {
+      margin:20px 100px 20px 100px;
+      height:380px;
+      border-radius:10px;
+      background-color:white;
+    }      
+    #shape
+    {
+      margin-left:20px;
+      margin-top:20px;
+      display:none;
+      position:relative;
+    }
+
+    .bold 
+    {
+      font-weight:bold;
+    }
