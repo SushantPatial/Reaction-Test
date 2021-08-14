@@ -1,6 +1,6 @@
 # Reaction Test
 
-Test your reaction timing! Bring out the inner gamer in you ⚡
+Test your reaction timing! Bring out the inner gamer in you ⚡!
 <br>
 https://sushantpatial.github.io/Reaction-Test/ReactionTest.html
 <br><br>
