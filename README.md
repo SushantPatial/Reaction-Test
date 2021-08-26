@@ -2,7 +2,7 @@
 
 Test your reaction timing! Bring out the inner fps gamer in you ⚡!
 
-### Languages used:
+### Languages used
 HTML, CSS, JavaScript
 
 ### Try it out!
