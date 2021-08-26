@@ -1,6 +1,6 @@
 # Reaction Test
 
-Test your reaction timing! Bring out the inner fps gamer in you ⚡!
+<b>Test your reaction timing! Bring out the inner fps gamer in you ⚡!</b>
 
 ### Languages used
 HTML, CSS, JavaScript
